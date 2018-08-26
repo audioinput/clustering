@@ -7,6 +7,10 @@ km - k-means (Lloyd) (implemented + works)
 [skm](http://puu.sh/nw5ny.png) - Soft k-means (accuracy issues)  
 h - Hierarchical (not yet implemented)  
 
+# Build and run
+
+To build and run the application the use of [Apache Ant](http://ant.apache.org/) is advised.
+
 ## compile
 ```
 ant compile  
